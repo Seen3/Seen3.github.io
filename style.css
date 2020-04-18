@@ -29,6 +29,7 @@ html{
         width:400px;
         margin-left: 5em;
         margin-right: 5em;
+        margin-top:2em;
         position: static;
         height:auto;
         z-index: 3;
